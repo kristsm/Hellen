@@ -1,3 +1,10 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
-"M1","Module-vr-max9924-0.1","vr-max9924",9.299998,4.949998,0.000000,top
-"M2","Module-mega-mcu144-0.6","mega-mcu144",9.299998,15.999997,0.000000,top
+"G4","DISCLAIMER","Off_Road_Disclaimer",-66.962000,111.818000,180.000000,bottom
+"M1","Module-vr-max9924-0.1","vr-max9924",88.329446,33.193357,0.000000,top
+"M2","Module-ign8-0.2","ign8",136.099446,61.719648,0.000000,top
+"M3","Module-input-0.1","input",88.329446,44.233994,0.000000,top
+"M4","Module-mcu-0.7","mcu",88.329446,60.286111,0.000000,top
+"M5","Module-power_12and5V-0.1","power_12and5V",136.099446,76.843355,0.000000,top
+"M6","Module-stlink-0.1","stlink",120.679446,33.093363,0.000000,top
+"M7","Module-wbo-0.5","wbo",120.679446,44.943357,0.000000,top
+"P2","368255-2","TE_368255-2",139.420000,20.340000,180.000000,top
